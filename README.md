@@ -12,6 +12,7 @@ v1.2:
 Once you get a score on game page, click share button on game page, you will jump to my account page and you'll see your last score and share button.
 Click the share button, it will show you message box and you can leave message here.(front-end only)
 
-v1.3 (still working on it):
-(1) upload and store scores and messages (database).
-(2) discussion board function. (Automatically generate message box by using data from database)
+v1.3 (the final version):
+(1) finished progress bar function on game page, now you can see the highest score among players, the score is from database. If you got higher score than current highest score, it will show you a message: "Congratulation!! Your got the highest score, click share button to save your score."
+(2) finished discussion board function. now it can show all messages in database. It will show 6 messages at the same time， you can click previous and next button to switch the messages. You can click the like button to your favorite messages.
+(3) finished functions on myaccount page, now you can see your three messages which have the highest score. You can click view button to see the full content of these messages. You can add messages to the database through message box.
