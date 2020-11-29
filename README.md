@@ -16,3 +16,7 @@ v1.3 (the final version):
 (1) finished progress bar function on game page, now you can see the highest score among players, the score is from database. If you got higher score than current highest score, it will show you a message: "Congratulation!! Your got the highest score, click share button to save your score."
 (2) finished discussion board function. now it can show all messages in database. It will show 6 messages at the same time， you can click previous and next button to switch the messages. You can click the like button to your favorite messages.
 (3) finished functions on myaccount page, now you can see your three messages which have the highest score. You can click view button to see the full content of these messages. You can add messages to the database through message box.
+
+bug:
+(1) You should try several times when you first log in.
+(2) If some information on the page is not displayed, you may need to refresh.
